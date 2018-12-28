@@ -1,0 +1,2 @@
+# DaiminCode
+Just fun
